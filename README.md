@@ -35,6 +35,7 @@ Learning and building practical applications with Spring Boot and Java.
 </table>
 
 </div>
+
 ---
 
 **Latest updated:** September 29, 2026
